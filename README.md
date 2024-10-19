@@ -6,13 +6,11 @@
 <p align="left"> <a href="https://twitter.com/itspremsean" target="blank"><img src="https://img.shields.io/twitter/follow/itspremsean?logo=twitter&style=for-the-badge" alt="itspremsean" /></a> </p>
 <br>
 
-- 🌱 I’m currently learning Cyber Security and other programming languages
+- 🌱 I’m currently learning Machine Learning and other programming languages
 
-- 👨‍💻 All of my projects are available at [https://github.com/ryh04x?tab=repositories](https://github.com/ryh04x?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/soypremshandilya?tab=repositories](https://github.com/ryh04x?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@ryh04x/](https://medium.com/@ryh04x)
-
-- 📫 How to reach me **work4rhythm@gmail.com**
+- 📫 How to reach me **iampremshandilya@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -20,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/rhythmxsec" target="blank"><img align="center"
+  <a href="https://instagram.com/iampremshandilya" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
  <a href="https://twitter.com/ryh04x" target="blank"><img align="center"
