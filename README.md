@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Machine Learning and other programming languages
 
-- 👨‍💻 All of my projects are available at [https://github.com/soypremshandilya?tab=repositories](https://github.com/ryh04x?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/soypremshandilya?tab=repositories](https://github.com/soypremshandilya?tab=repositories)
 
 - 📫 How to reach me **iampremshandilya@gmail.com**
 
