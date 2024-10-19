@@ -3,7 +3,7 @@
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soypremshandilya&label=Profile%20views&color=0e75b6&style=flat" alt="soypremshandilya" /> </p>
-<p align="left"> <a href="https://twitter.com/itspremsean" target="blank"><img src="https://img.shields.io/twitter/follow/ryh04x?logo=twitter&style=for-the-badge" alt="itspremsean" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itspremsean" target="blank"><img src="https://img.shields.io/twitter/follow/itspremsean?logo=twitter&style=for-the-badge" alt="itspremsean" /></a> </p>
 <br>
 
 - 🌱 I’m currently learning Cyber Security and other programming languages
