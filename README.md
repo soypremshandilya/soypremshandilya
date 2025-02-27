@@ -63,7 +63,8 @@
 
 ### 📈 **GitHub Activity Graph**
 
-[![Prem's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=soypremshandilya&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prem's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soypremshandilya&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
